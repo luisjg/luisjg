@@ -2,9 +2,9 @@
 
 I'm a Software Engineer currently working as a Full Stack Web Developer @CSUN-IT.
 
-My day to day web stack consists of | Eagerly learning the following
------ | ----
-<ul><li>Vuejs</li><li>JQuery</li><li>JavaScript</li><li>Laravel</li><li>PHP</li><li>MySQL</li><li>Apache</li></ul> | <ul><li>Docker</li><li>Advanced Apache usage: <br /> Proxy/Reverse Proxy</li><li>Python</li><li>React</li><li>CI/CD</li><li>MySQL</li><li>Apache</li><li>TypeScript</li></ul>
+| My day to day web stack consists of              | Eagerly learning the following                                                                |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Vuejs JQuery JavaScript Laravel PHP MySQL Apache | Docker Advanced Apache usage:  Proxy/Reverse Proxy Python React CI/CD MySQL Apache TypeScript |
 
 If you would like to reach out or collaborate feel free to send me an <a href="mailto:contact@luisjg.io">email</a>.
 
