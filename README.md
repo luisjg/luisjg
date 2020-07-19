@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm a Software Engineer currently working as a Full Stack Web Developer @CSUN-IT.
+I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@CSUN-IT](https://github.com/CSUN-IT).
 
 <table><tr><td valign="top" width="50%">
 
