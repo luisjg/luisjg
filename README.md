@@ -15,14 +15,13 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 </td><td valign="top" width="50%">
 
 ### On the learning list
-* Docker
-* Apache usage - Proxy/Reverse Proxy
-* Python
-* React
-* CI/CD
-* MySQL
-* Apache
-* TypeScript
+- [ ] Docker
+- [ ] Apache and advanced usages
+- [ ] Python
+- [ ] React
+- [ ] CI/CD
+- [ ] MySQL
+- [ ] TypeScript
 </td></tr></table>
 
 If you would like to reach out or collaborate feel free to send me an <a href="mailto:contact@luisjg.io">email</a>.
