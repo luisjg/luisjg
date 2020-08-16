@@ -2,7 +2,15 @@
 
 I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@CSUN-IT](https://github.com/CSUN-IT).
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
+
+### Languages I know
+* C/C++
+* Java
+* JavaScript
+* PHP
+* Python
+</td><td valign="top" width="33%">
 
 ### Day to day web stack
 * Vuejs
@@ -12,7 +20,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 * PHP
 * MySQL
 * Apache
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 ### On the learning list
 - [ ] Docker
@@ -24,7 +32,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 - [ ] TypeScript
 </td></tr></table>
 
-If you would like to reach out or collaborate feel free to send me an <a href="mailto:contact@luisjg.io">email</a>.
+If you would like to reach out or collaborate feel free to <a href="mailto:contact@luisjg.io">send me an email</a>.
 
 <!--
 **luisjg/luisjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
