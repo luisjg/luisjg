@@ -40,6 +40,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 [<img align="left" alt="luisjg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 <!-- From https://github.com/anuraghazra/github-readme-stats & https://github.com/codeSTACKr/codeSTACKr -->
 <details>
@@ -50,7 +51,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 
 [twitter]: https://twitter.com/luisjg_io
 [instagram]: https://instagram.com/luisjg_io
-[linkedin]: https://linkedin.com/luisjg
+[linkedin]: https://linkedin.com/in/luisjg-io
 [work]: https://github.com/CSUN-IT
 [email]: mailto:contact@luisjg.io
 
