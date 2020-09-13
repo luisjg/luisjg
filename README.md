@@ -17,9 +17,10 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 * JQuery
 * JavaScript
 * Laravel
-* PHP
-* MySQL
+* Linux
 * Apache
+* MySQL
+* PHP
 </td><td valign="top" width="33%">
 
 ### On the learning list
