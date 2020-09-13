@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@CSUN-IT](https://github.com/CSUN-IT).
+I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@CSUN-IT][work]. If you would like to reach out or collaborate feel free to [send me an email][email].
 
 <table><tr><td valign="top" width="33%">
 
@@ -30,13 +30,29 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 - [ ] CI/CD
 - [ ] MySQL
 - [ ] TypeScript
+- [ ] Go
 </td></tr></table>
 
-If you would like to reach out or collaborate feel free to <a href="mailto:contact@luisjg.io">send me an email</a>.
+## Feel free to reach out!
 
----
-<!-- From https://github.com/anuraghazra/github-readme-stats -->
-![luisjg's github stats](https://github-readme-stats.vercel.app/api?username=luisjg&count_private=true)
+[<img align="left" alt="luisjg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="luisjg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="luisjg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<!-- From https://github.com/anuraghazra/github-readme-stats & https://github.com/codeSTACKr/codeSTACKr -->
+<details>
+  <summary>Latest GitHub Statistics</summary>
+    <img alt="luisjg github stats" src="https://github-readme-stats.vercel.app/api?username=luisjg&count_private=true&hide_border=true" />
+</details>
+
+
+[twitter]: https://twitter.com/luisjg_io
+[instagram]: https://instagram.com/luisjg_io
+[linkedin]: https://linkedin.com/luisjg
+[work]: https://github.com/CSUN-IT
+[email]: mailto:contact@luisjg.io
 
 <!--
 **luisjg/luisjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
