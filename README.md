@@ -34,6 +34,10 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 
 If you would like to reach out or collaborate feel free to <a href="mailto:contact@luisjg.io">send me an email</a>.
 
+---
+<!-- From https://github.com/anuraghazra/github-readme-stats -->
+![luisjg's github stats](https://github-readme-stats.vercel.app/api?username=luisjg&count_private=true)
+
 <!--
 **luisjg/luisjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
