@@ -50,11 +50,11 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 </details>
 
 
-[twitter]: https://twitter.com/luisjg_io
-[instagram]: https://instagram.com/luisjg_io
-[linkedin]: https://linkedin.com/in/luisjg-io
+[twitter]: https://twitter.com/luisjg_dev
+[instagram]: https://instagram.com/luisjg_dev
+[linkedin]: https://linkedin.com/in/luisjg-dev
 [work]: https://github.com/CSUN-IT
-[email]: mailto:contact@luisjg.io
+[email]: mailto:contact@luisjg.dev
 
 <!--
 **luisjg/luisjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
