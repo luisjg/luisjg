@@ -32,6 +32,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 - [ ] MySQL
 - [ ] TypeScript
 - [ ] Go
+- [ ] Elixir
 </td></tr></table>
 
 ## Feel free to reach out!
