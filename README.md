@@ -15,7 +15,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 ### Day to day web stack
 * Vuejs
 * Reactjs
-* JQuery
+* jQuery
 * JavaScript
 * Laravel
 * Linux
