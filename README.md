@@ -14,6 +14,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 
 ### Day to day web stack
 * Vuejs
+* Reactjs
 * JQuery
 * JavaScript
 * Laravel
@@ -26,8 +27,8 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 ### On the learning list
 - [ ] Docker
 - [ ] Apache and advanced usages
-- [ ] Python
-- [ ] React
+- [x] Python
+- [x] React
 - [ ] CI/CD
 - [ ] MySQL
 - [ ] TypeScript
