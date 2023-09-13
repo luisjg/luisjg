@@ -25,12 +25,12 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 </td><td valign="top" width="33%">
 
 ### On the learning list
-- [ ] Docker
-- [ ] Apache and advanced usages
+- [x] Docker
+- [x] Apache and advanced usages
 - [x] Python
 - [x] React
 - [ ] CI/CD
-- [ ] MySQL
+- [x] MySQL
 - [ ] TypeScript
 - [ ] Go
 - [ ] Elixir
