@@ -1,33 +1,51 @@
 # Hi there 👋
 
-I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@CSUN-IT][work]. If you would like to reach out or collaborate feel free to [send me an email][email].
+I'm Luis, a Software Engineer solving software problems for [@CSUN-IT][work]. If you would like to reach out or collaborate feel free to [send me an email][email].
 
 <table><tr><td valign="top" width="33%">
 
-### Languages I know
+### Languages I enjoy 
+
 * C/C++
 * Java
 * JavaScript
 * PHP
 * Python
+
 </td><td valign="top" width="33%">
 
 ### Day to day stack
+
+<table>
+
+<td valign="top" width="50%">
+
 * Vuejs
 * Reactjs 
 * jQuery
 * JavaScript
 * Laravel
 * PHP
+
+</td>
+
+<td valign="top" width="50%">
+
 * Python
 * CentOS
 * Ubuntu
 * Apache
 * Bash
 * MySQL
+
+</td>
+
+</table>
+
 </td><td valign="top" width="33%">
 
 ### Learning list
+
 - [x] Docker
 - [x] Python
 - [x] React
@@ -35,6 +53,7 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 - [x] Go
 - [x] Elixir
 - [x] Rust
+
 </td></tr></table>
 
 ## Feel free to reach out!
