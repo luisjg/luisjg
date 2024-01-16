@@ -12,28 +12,29 @@ I'm Luis, a Software Engineer currently working as a Full Stack Web Developer [@
 * Python
 </td><td valign="top" width="33%">
 
-### Day to day web stack
+### Day to day stack
 * Vuejs
-* Reactjs
+* Reactjs 
 * jQuery
 * JavaScript
 * Laravel
-* Linux
-* Apache
-* MySQL
 * PHP
+* Python
+* CentOS
+* Ubuntu
+* Apache
+* Bash
+* MySQL
 </td><td valign="top" width="33%">
 
-### On the learning list
+### Learning list
 - [x] Docker
-- [x] Apache and advanced usages
 - [x] Python
 - [x] React
-- [ ] CI/CD
-- [x] MySQL
-- [ ] TypeScript
-- [ ] Go
-- [ ] Elixir
+- [x] TypeScript
+- [x] Go
+- [x] Elixir
+- [x] Rust
 </td></tr></table>
 
 ## Feel free to reach out!
