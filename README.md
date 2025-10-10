@@ -67,7 +67,7 @@ I'm Luis, a Software Engineer solving software problems for [@CSUN-IT][work]. If
 
 <!-- From https://github.com/anuraghazra/github-readme-stats & https://github.com/codeSTACKr/codeSTACKr -->
 <details>
-  <summary> ## Latest GitHub Statistics </summary>
+  <summary>Latest GitHub Statistics </summary>
     <img alt="luisjg github stats" src="https://github-readme-stats.vercel.app/api?username=luisjg&count_private=true&hide_border=true" />
 </details>
 
@@ -77,18 +77,3 @@ I'm Luis, a Software Engineer solving software problems for [@CSUN-IT][work]. If
 [linkedin]: https://linkedin.com/in/luisjg-dev
 [work]: https://github.com/CSUN-IT
 [email]: mailto:contact@luisjg.dev
-
-<!--
-**luisjg/luisjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
