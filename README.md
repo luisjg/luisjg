@@ -69,7 +69,7 @@ I'm Luis, a Software Engineer solving software problems for [@CSUN-IT][work]. If
 <details>
   <summary>Latest GitHub Statistics </summary>
   
-  <img alt="luisjg github stats" src="https://github-readme-stats.vercel.app/api?username=luisjg&count_private=true&hide_border=true" />
+  <img alt="luisjg github stats" src="https://github-readme-stats.vercel.app/api?username=luisjg&count_private=true&hide_border=true&theme=catppuccin_mocha" />
 </details>
 
 
